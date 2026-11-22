@@ -1,0 +1,6 @@
+{
+  "name": "Ledgerline",
+  "description": "Personal finance management system with single-row transaction ledger, chronological running balance, loan tracking, monthly and yearly reports, and JSON backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
